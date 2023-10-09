@@ -7,7 +7,10 @@ def reverseWords(S):
 
 
 
-
+def tumkoKya():
+     s = "mai kuch bhi karu"
+     reverse = s[::-1]
+     print(reverse)
 
 
 
